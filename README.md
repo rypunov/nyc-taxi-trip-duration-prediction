@@ -5,7 +5,10 @@
 
 ## 📊 Описание данных
 В проекте используется датасет поездок Yellow Taxi за первую половину 2016 года.
-Основные признаки:
+
+**Источник данных:** [NYC Taxi Trip Duration - Kaggle Competition](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
+
+**Основные признаки:**
 * `pickup_datetime` / `dropoff_datetime` — время начала и окончания поездки.
 * `pickup_longitude` / `pickup_latitude` / `dropoff_longitude` / `dropoff_latitude` — географические координаты.
 * `passenger_count` — количество пассажиров.
